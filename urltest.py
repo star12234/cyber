@@ -3,7 +3,7 @@ import pandas as pd
 import urllib.parse
 import re
 import time
-import whois
+#import whois
 from datetime import datetime
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
